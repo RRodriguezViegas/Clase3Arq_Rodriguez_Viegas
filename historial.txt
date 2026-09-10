@@ -1,0 +1,49 @@
+    1  ls
+    2  cd Downloads
+    3  ls
+    4  cd ../
+    5  clear
+    6  pwd
+    7  git --version
+    8  npm --version
+    9  clear
+   10  whoami
+   11  who
+   12  id
+   13  w
+   14  last
+   15  uname -a
+   16  cat /proc/cpuninfo
+   17  cat /proc/cpuinfo
+   18  cat /proc/meminfo
+   19  cat /proc/partitions
+   20  free -h
+   21  df -h
+   22  lsb_release -a
+   23  lsblk
+   24  lscpu
+   25  ps aux
+   26  top
+   27  history
+   28  clear
+   29  history
+   30  ssh-keygen -t ed25519
+   31  ls -l
+   32  pwd
+   33  ls -la
+   34  ls
+   35  cd .ssh
+   36  ls -l
+   37  ls
+   38  cat id_ed25519.pub
+   39  cd ..
+   40  mkdir clase3
+   41  cd clase3
+   42  cd Clase3Arq_Rodriguez_Viegas/
+   43  pwd
+   44  ls -l
+   45  ls -la
+   46  cat README.md 
+   47  git status
+   48  history
+   49  history > historial.txt
